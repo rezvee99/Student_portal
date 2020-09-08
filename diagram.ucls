@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="StudentPortal.TForgetPassword" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/TForgetPassword.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="231" y="164"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="StudentPortal.TeacherProfile" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/TeacherProfile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3093" y="227"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="StudentPortal.TeacherEditProfile" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/TeacherEditProfile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3273" y="209"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="StudentPortal.TeacherSignUp" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/TeacherSignUp.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="6036" y="182"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="StudentPortal.StudentEditProfile" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/StudentEditProfile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="6214" y="263"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="StudentPortal.HomePage" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/HomePage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="395" y="128"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="StudentPortal.NewPassword" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/NewPassword.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="580" y="155"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="StudentPortal.StudentOutput" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/StudentOutput.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="6390" y="690"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="StudentPortal.TableCreate" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/TableCreate.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="753" y="119"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="StudentPortal.StudentLiveResult" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/StudentLiveResult.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="906" y="137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="StudentPortal.StudentInput" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/StudentInput.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1135" y="137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="StudentPortal.T_HomePage" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/T_HomePage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1361" y="137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="StudentPortal.Teacheroutput" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/Teacheroutput.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3261" y="636"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="StudentPortal.A_HomePage" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/A_HomePage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1524" y="137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="StudentPortal.StudentPage" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/StudentPage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1687" y="155"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="StudentPortal.ForgatePassword" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/ForgatePassword.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1851" y="164"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="StudentPortal.TeacherPage" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/TeacherPage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2015" y="137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="StudentPortal.Administrator" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/Administrator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2196" y="164"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="StudentPortal.Admission" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/Admission.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2377" y="146"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="StudentPortal.SearchStudent" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/SearchStudent.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2544" y="240"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="StudentPortal.UpdateData" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/UpdateData.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2820" y="164"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="StudentPortal.AboutUs" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/AboutUs.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3647" y="146"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="StudentPortal.StudentAcademicResult" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/StudentAcademicResult.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3829" y="137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="StudentPortal.StudentProfile" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/StudentProfile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="6391" y="227"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="StudentPortal.StudentLogIn" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/StudentLogIn.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="6546" y="191"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="StudentPortal.SignUp" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/SignUp.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4011" y="128"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="StudentPortal.StudentSignUp" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/StudentSignUp.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4177" y="182"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="StudentPortal.A_payment" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/A_payment.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4349" y="218"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="StudentPortal.Hostel" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/Hostel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4517" y="137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="StudentPortal.TNewPassword" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/TNewPassword.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4702" y="155"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="StudentPortal.S_HomePage" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/S_HomePage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4886" y="137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="StudentPortal.TeacherInput" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/TeacherInput.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="6097" y="555"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="StudentPortal.LogIn" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/LogIn.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5049" y="128"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="StudentPortal.TeacherLogIn" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/TeacherLogIn.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3466" y="155"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="StudentPortal.Dbconnection" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/Dbconnection.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5211" y="128"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="StudentPortal.Submission" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/Submission.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5373" y="137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="StudentPortal.Gallery" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/Gallery.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5536" y="146"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="StudentPortal.Payment" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/Payment.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5699" y="182"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="StudentPortal.AdministratorPage" project="VersityProject" 
+    file="/VersityProject/src/StudentPortal/AdministratorPage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5866" y="146"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="40">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="41" name="ob"/>      
+      <multiplicity id="42" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="43">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="44" name="ob"/>      
+      <multiplicity id="45" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="46">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="47" name="ob"/>      
+      <multiplicity id="48" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="49">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="50" name="inp"/>      
+      <multiplicity id="51" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="32" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="52">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="53" name="ob"/>      
+      <multiplicity id="54" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="55">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="56" name="ob"/>      
+      <multiplicity id="57" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="58">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="59" name="ob"/>      
+      <multiplicity id="60" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
